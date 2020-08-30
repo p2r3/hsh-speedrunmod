@@ -24,7 +24,8 @@ So far the moderator (ShevaDecai) hasn't responded to this question, but it's pe
 ## Installation
 Just go to [the releases page](https://github.com/p2r3/hsh-speedrunmod/releases), and download the latest version of the mod. Then open the .swf file in your Flash player.
 
-Sadly, highscores are not maintained between releases.
+Sadly, highscores are not automatically copied between releases.
+However, you can manually move and rename the mod .swf file to replace your old Home Sheep Home installation. This should, in most cases, load your old save data instead. This depends on your flash player.
 
 ## Usage
 To start the timer, simply enter a level. The timer will stop once you've finished level 15.
