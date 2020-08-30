@@ -20,9 +20,7 @@ Individual level timers and PBs seen on the level end screen have millisecond pr
 So far the moderator (ShevaDecai) hasn't responded to this question, but it's perfectly fine to use in practice. And I doubt you'd have any problems if you used this alongside an external timer for actual runs.
 
 ## Installation
-Just go to the releases page and download the latest version in whatever format you prefer, or whatever your operating system supports.
-
-You can run the mod either by simply launching the standalone executable, (.exe for Windows) or loading the .swf file into your Flash player.
+Just go to [the releases page](https://github.com/p2r3/hsh-speedrunmod/releases), and download the latest version of the mod. Then open the .swf file in your Flash player.
 
 Sadly, highscores are not maintained between releases.
 
