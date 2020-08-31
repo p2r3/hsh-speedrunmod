@@ -19,7 +19,7 @@ The mod also includes other small quality of life features. For example, an atte
 
 ### Is this legal for runs uploaded to speedrun.com?
 
-So far the moderator (ShevaDecai) hasn't responded to this question, but it's perfectly fine to use in practice. And I doubt you'd have any problems if you used this alongside an external timer for actual runs.
+Yes, the moderator, ShevaDecai, has agreed to allowing this mod in runs, and a few times have already been set with it.
 
 ## Installation
 Just go to [the releases page](https://github.com/p2r3/hsh-speedrunmod/releases), and download the latest version of the mod. Then open the .swf file in your Flash player.
