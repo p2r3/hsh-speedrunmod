@@ -33,3 +33,7 @@ However, you can manually move and rename the mod .swf file to replace your old 
 To start the timer, simply enter a level. The timer will stop once you've finished level 15.
 
 To reset the timer, exit to the menu by pressing Esc or clicking on the menu button.
+
+To record a demo, make sure the "record demos" checkmark on the main menu screen is ticked, then enter a level.
+
+To play a demo, exit to the main menu after recording and click on the "play demo" button.
